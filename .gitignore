@@ -1,0 +1,5 @@
+*.txt
+*.csv
+Counts_to_network_pandas/**
+my_project/**
+.DS_Store
